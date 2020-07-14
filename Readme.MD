@@ -13,6 +13,7 @@ Mục tiêu hiểu về Linux kernel module và hệ thống quản lý file và
 + Module này sẽ tạo một character device để cho phép các tiến trình ở userspace có thể open và read các số ngẫu nhiên.
 
 ------------------------------------------------------------------------- Hướng dẫn chạy :D 
+Name: Nguyễn Tất Hưng - ID: 18127104
 
 - Nếu đang có Kernel sẵn --> Gỡ Driver ra bằng lệnh make out
 - Có 2 cách để thực hiện chạy: 
